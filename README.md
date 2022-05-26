@@ -38,5 +38,5 @@ I am a front end developer that loves to make visually pleasing and accessible w
  
 🎹 🎸 - I play the piano & electric guitar.
 
-🎬 📺 - I love movies & tv shows. My favorite genres are sci-fi & apocalyptic.   
+📚 🎬 📺 - I love books, movies & tv shows. My favorite genres are sci-fi & apocalyptic.   
 
