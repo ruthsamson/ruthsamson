@@ -5,8 +5,7 @@
 
 I am a front end developer that loves to make visually pleasing and accessible websites and apps. My learning and growing never ends. I am always interested in expanding my knowledge and becoming a valuable asset to any team I'm working with. 
 
-- ⚡ Fun facts: 
-📚 ✍🏽 - I love books & I'm writing some of my own 😏
+*⚡ Fun facts:* 
 
 🎾 🏹 - My favorite sports are tennis and archery. I can watch & play them all day. 
  
@@ -16,7 +15,7 @@ I am a front end developer that loves to make visually pleasing and accessible w
 
 ---
 
-🔨 My Tech Stack: 
+# 🔨  My Tech Stack: 
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +32,7 @@ I am a front end developer that loves to make visually pleasing and accessible w
 
 ---
 
-<a href=''>
+<a href='www.linkedin.com/in/ruthsamson'>
     <img src='./images/linkedin_logo.png' alt='LinkedIn logo' >
 </a>
 
