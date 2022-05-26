@@ -3,7 +3,7 @@
 
 # 👋🏽 Hello, I'm Ruth!
 
-I am a front end developer that loves to make visually pleasing and accessible websites and apps. I am always striving to expand my knowledge and becoming a valuable asset to any team I'm working with. 
+I am a front end developer that loves to make visually pleasing and accessible websites and apps. I am always striving to expand my knowledge and become a valuable asset to any team I'm working with. 
 
 ---
 
