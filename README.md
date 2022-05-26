@@ -20,14 +20,16 @@ I am a front end developer that loves to make visually pleasing and accessible w
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
+---
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ruthsamson&theme=tokyonight&show_icons=true" alt="Github stats">
+<img align="left" width="47%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthsamson&layout=compact" alt="Top languages used">
 
 ---
  
 # 📫 Where to Reach Me: 
 
 <a href='https://www.linkedin.com/in/ruthsamson'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn logo' >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
 </a>
 
 ---
