@@ -34,7 +34,7 @@ I am a front end developer that loves to make visually pleasing and accessible w
 
 **⚡ Fun facts:** 
 
-🎾 🏹 - My favorite sports are tennis & archery. 
+🎾 🏹 - My favorite sports are tennis & archery. I can watch & play them all day. 
  
 🎹 🎸 - I play the piano & electric guitar.
 
