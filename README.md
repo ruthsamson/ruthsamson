@@ -5,14 +5,6 @@
 
 I am a front end developer that loves to make visually pleasing and accessible websites and apps. My learning and growing never ends. I am always interested in expanding my knowledge and becoming a valuable asset to any team I'm working with. 
 
-**⚡ Fun facts:** 
-
-🎾 🏹 - My favorite sports are tennis and archery. 
- 
-🎹 🎸 - I play the piano & electric guitar.
-
-🎬 📺 - I love movies & tv shows. My favorite genres are sci-fi & apocalyptic.   
-
 ---
 
 # 🔨  My Tech Stack: 
@@ -32,9 +24,19 @@ I am a front end developer that loves to make visually pleasing and accessible w
 
 ---
  
-📫 Where to Reach Me: 
+# 📫 Where to Reach Me: 
 
 <a href='https://www.linkedin.com/in/ruthsamson'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn logo' >
 </a>
+
+---
+
+**⚡ Fun facts:** 
+
+🎾 🏹 - My favorite sports are tennis and archery. 
+ 
+🎹 🎸 - I play the piano & electric guitar.
+
+🎬 📺 - I love movies & tv shows. My favorite genres are sci-fi & apocalyptic.   
 
